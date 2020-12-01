@@ -1,3 +1,5 @@
-I like to Elixir 💧.
+It's that time of year again!
 
-Every now and again, dabble in other languages like Rust 🦀 and Elm 🌳.
+🎄 https://adventofcode.com/
+
+https://github.com/donaldducky/advent-of-code
